@@ -65,5 +65,5 @@ body { background-color: #ccffcc; }
 
 <!-- フッタ -->
  <footer>
- Copyright 2018/05/25 S.Hada
+ Copyright 2018/05/24 S.Hada
  </footer>
