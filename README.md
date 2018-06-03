@@ -62,6 +62,9 @@ body { background-color: #ccffcc; }
 <img src="https://torokoid.github.io/mahoroba/807.JPG" alt="" width="229" height="318" border="0" />
 <img src="https://torokoid.github.io/mahoroba/810.JPG" alt="" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/811.JPG" alt="" width="318" height="229" border="0" /><br/>
+<br><section>
+ <a href="https://opa.cig2.imagegateway.net/s/cp/HHE3zLdHwmM" target="_blank">2016/08/11 まほろば（すー）、PassWD:なし</a>
+       </section><br>
 
 <!-- フッタ -->
  <footer>
